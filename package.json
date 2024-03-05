@@ -1,0 +1,11 @@
+{
+  "name": "thread2task",
+  "version": "1.0.0",
+  "description": "This is a scaffolded Deno template used to build out Slack apps using the Slack CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
